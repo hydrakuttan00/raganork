@@ -60,7 +60,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3zrAeKA)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/souravkl11/Raganork.git)
      <div align="left">
 <br>
 <br >
