@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="777.jpg" width="300" height="225"/>
+  <img border-radius: 15px src="New logo.jpg" width="300" height="225"/>
   <p align="center">
 <a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -60,7 +60,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/souravkl11/Raganork.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3zrAeKA)
      <div align="left">
 <br>
 <br >
@@ -122,4 +122,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
   <div align="center">
   
-### Pinnendha.. Sugalle😁
+### Killadism never ends !!!
