@@ -180,7 +180,7 @@ else if (Config.WORKTYPE == 'public') {
         var CMD_HELP = '';
         Asena.commands.map(
             async (command) =>  {
-                if (command.dontAddCommandList || command.pattern === undefined) return;
+                 (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
                     var cmatch = command.pattern.toString().match(/(\W*)([A-Za-zğüşiöç1234567890]*)/);
                 } catch {
@@ -204,9 +204,7 @@ else if (Config.WORKTYPE == 'public') {
             }
         );
         if (CMD_HELP === '') CMD_HELP += Lang.NOT_FOUND;
-        await message.client.sendMessage(
-            message.jid, CMD_HELP, MessageType.text,{quoted: message.data}
-        );
+        await 
     }
 }));
 
