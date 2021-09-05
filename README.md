@@ -1,6 +1,6 @@
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Road+rage&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+Whatsasena;Made+By+SouravKL11)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+Whatsasena;Made+By+SouravKL11)](https://git.io/typing-svg)
 
 
   <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="New logo.jpg" height="180" width="300" /></a>
