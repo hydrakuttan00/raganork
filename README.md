@@ -1,6 +1,11 @@
-
 <div align="center">
-  <img border-radius: 15px src="New logo.jpg" width="300" height="225"/>
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Road+rage&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+Whatsasena;Made+By+SouravKL11)](https://git.io/typing-svg)
+
+
+  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="New logo.jpg" height="180" width="300" /></a>
+</p>
+  
   <p align="center">
 <a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -64,35 +69,8 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
      <div align="left">
 <br>
 <br >
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
+
   
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/souravkl11/Raganork
-$ cd Raganork
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/souravkl11/Raganork
-$ cd Raganork
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
 
 
 ### ⚠️ മുന്നറിയിപ്പ്! 
