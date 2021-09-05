@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=F7001E&size=25&center=true&lines=Audio+commands+of+raganork+bot+%F0%9F%91%87;Files+are+hidden+because+of+copyright)](https://git.io/typing-svg)
