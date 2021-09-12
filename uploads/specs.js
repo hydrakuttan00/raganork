@@ -1,1 +1,1 @@
-All specs specified in worker
+All specs specified in worker{Config.SKL11}
